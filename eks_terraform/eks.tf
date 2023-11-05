@@ -52,6 +52,6 @@ module "eks" {
   }
 
   tags = {
-    Environment = "staging"
+    Environment = "Cloud-project"
   }
 }
